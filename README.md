@@ -441,18 +441,7 @@ http://localhost/pbl-tracker/public/
 ### 5. Tài khoản mặc định
 
 **Admin:**
-- Email: admin@ischool.vnu.edu.vn
-- Password: Admin@123
-
-**Giảng viên:**
-- Email: lecturer@ischool.vnu.edu.vn
-- Password: Lecturer@123
-
-**Sinh viên:**
-- Email: student@ischool.vnu.edu.vn
-- Password: Student@123
-
----
+- Email: 22070905@vnu.edu.vn
 
 ## Phân công công việc chi tiết
 
@@ -642,11 +631,8 @@ http://localhost/pbl-tracker/public/
 - [ ] Integration với Git (GitHub/GitLab)
 - [ ] Time tracking với timer
 - [ ] Automated testing
-
 ---
-
 ## Tài liệu tham khảo
-
 - [PHP Official Documentation](https://www.php.net/docs.php)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.0/)
@@ -654,16 +640,10 @@ http://localhost/pbl-tracker/public/
 - [Scrum Guide](https://scrumguides.org/)
 
 ---
-
 ## License
-
 Dự án này được phát triển cho mục đích học tập tại Trường Quốc tế ISchool - ĐHQGHN.
-
 ---
-
 ## Contact
-
-Mọi thắc mắc xin liên hệ:
 - Email: 22070905@vnu.edu.vn
 - GitHub: https://github.com/
 
