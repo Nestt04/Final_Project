@@ -271,12 +271,12 @@ http://localhost/studentproject/public/
 3. project_groups
 
 **Chức năng:**
-- ✅ Authentication (Login/Logout/Register)
-- ✅ User CRUD (Create, Read, Update, Delete)
-- ✅ Course CRUD
-- ✅ Project Group CRUD
-- ✅ User profile management
-- ✅ Role-based dashboard
+-  Authentication (Login/Logout/Register)
+-  User CRUD (Create, Read, Update, Delete)
+-  Course CRUD
+-  Project Group CRUD
+-  User profile management
+-  Role-based dashboard
 
 **Controllers:**
 - AuthController.php
@@ -297,14 +297,14 @@ http://localhost/studentproject/public/
 3. tasks
 
 **Chức năng:**
-- ✅ Sprint CRUD
-- ✅ Sprint planning (capacity, velocity)
-- ✅ User Story CRUD
-- ✅ Backlog management
-- ✅ Drag & drop story to sprint
-- ✅ Task CRUD
-- ✅ Kanban board
-- ✅ Story points calculation
+-  Sprint CRUD
+-  Sprint planning (capacity, velocity)
+-  User Story CRUD
+-  Backlog management
+-  Drag & drop story to sprint
+-  Task CRUD
+-  Kanban board
+-  Story points calculation
 
 **Controllers:**
 - SprintController.php
@@ -324,15 +324,15 @@ http://localhost/studentproject/public/
 3. peer_reviews
 
 **Chức năng:**
-- ✅ Task Assignment CRUD
-- ✅ Assign task to members
-- ✅ Track task progress
-- ✅ Activity logging (automatic)
-- ✅ Activity log viewer
-- ✅ Peer Review CRUD
-- ✅ Review submission
-- ✅ Review report & analytics
-- ✅ Contribution score calculation
+-  Task Assignment CRUD
+-  Assign task to members
+-  Track task progress
+-  Activity logging (automatic)
+-  Activity log viewer
+-  Peer Review CRUD
+-  Review submission
+-  Review report & analytics
+-  Contribution score calculation
 
 **Controllers:**
 - TaskAssignmentController.php
@@ -351,64 +351,64 @@ http://localhost/studentproject/public/
 ### Test Cases
 
 #### Authentication
-- ✅ Login với email/password đúng
-- ✅ Login với thông tin sai
-- ✅ Logout
-- ✅ Session timeout
-- ✅ Remember me
+-  Login với email/password đúng
+-  Login với thông tin sai
+-  Logout
+-  Session timeout
+-  Remember me
 
 #### User Management (Lê Văn Thuận)
-- ✅ Tạo user mới (validation)
-- ✅ Xem danh sách users
-- ✅ Cập nhật thông tin user
-- ✅ Xóa user (soft delete)
-- ✅ Tìm kiếm user
+-  Tạo user mới (validation)
+-  Xem danh sách users
+-  Cập nhật thông tin user
+-  Xóa user (soft delete)
+-  Tìm kiếm user
 
 #### Course Management (Thuận)
-- ✅ Tạo course mới
-- ✅ Xem danh sách courses
-- ✅ Cập nhật course
-- ✅ Xóa course
-- ✅ Assign instructor
+-  Tạo course mới
+-  Xem danh sách courses
+-  Cập nhật course
+-  Xóa course
+-  Assign instructor
 
 #### Project Group Management (Thuận)
-- ✅ Tạo nhóm dự án
-- ✅ Thêm/xóa thành viên
-- ✅ Kiểm tra max capacity
-- ✅ Xem thông tin nhóm
+-  Tạo nhóm dự án
+-  Thêm/xóa thành viên
+-  Kiểm tra max capacity
+-  Xem thông tin nhóm
 
 #### Sprint Management (Bùi Minh Hiếu)
-- ✅ Tạo sprint
-- ✅ Kiểm tra date validation
-- ✅ Cập nhật sprint status
-- ✅ Xóa sprint
+-  Tạo sprint
+-  Kiểm tra date validation
+-  Cập nhật sprint status
+-  Xóa sprint
 
 #### User Story Management (Hiếu)
-- ✅ Tạo user story
-- ✅ Move story to sprint
-- ✅ Kiểm tra capacity
-- ✅ Update story status
+-  Tạo user story
+-  Move story to sprint
+-  Kiểm tra capacity
+-  Update story status
 
 #### Task Management (Hiếu)
-- ✅ Tạo task
-- ✅ Update task status
-- ✅ Track estimated vs actual hours
+-  Tạo task
+-  Update task status
+-  Track estimated vs actual hours
 
 #### Task Assignment (Trần Hoàng Minh)
-- ✅ Assign task to member
-- ✅ Kiểm tra member trong nhóm
-- ✅ Update assignment status
+-  Assign task to member
+-  Kiểm tra member trong nhóm
+-  Update assignment status
 
 #### Activity Log (Minh)
-- ✅ Auto log khi CRUD
-- ✅ Xem lịch sử thay đổi
-- ✅ Filter logs
+-  Auto log khi CRUD
+-  Xem lịch sử thay đổi
+-  Filter logs
 
 #### Peer Review (Minh)
-- ✅ Submit review
-- ✅ Anonymous review
-- ✅ View aggregated scores
-- ✅ Generate report
+-  Submit review
+-  Anonymous review
+-  View aggregated scores
+-  Generate report
 
 ---
 
