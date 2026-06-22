@@ -1,0 +1,7 @@
+Một giảng viên có thể phụ trách nhiều học phần
+Mỗi học phần tại một thời điểm chỉ do một giáo viên chính giảng dạy
+Một người dung có thể tham gia vào nhiều dự án khác nhau
+Một nhóm dự án sẽ có nhiều đợt sprint để hoàn thành dự án
+Một nhóm có thể sở hữu nhiều user_stories xuyên suốt dự án
+Một công việc có thể được giao phó cho nhiều thành viên thực hiện
+Một thành viên thì có thể nhận và chịu trách nhiệm nhiều phần việc khác nhau
